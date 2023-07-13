@@ -1,0 +1,9 @@
+'ticket', 'admission', 'venue', 'rental', 'catering', 'party', 'celebration', 'event',
+'performance', 'concert', 'show', 'theater', 'play', 'musical', 'exhibition', 'art', 'gallery', 'museum',
+'ticketing', 'box office', 'seating', 'usher', 'security', 'audio', 'visual', 'equipment', 'stage', 'lighting',
+'sound', 'DJ', 'band', 'entertainment', 'performer', 'artist', 'comedian', 'musician', 'singer', 'band',
+'contractor', 'production', 'crew', 'director', 'producer', 'filming', 'shooting', 'location', 'set', 'props',
+'costume', 'makeup', 'hair', 'wardrobe', 'camera', 'editing', 'post-production', 'special effects', 'animation',
+'graphics', 'visual effects', 'photography', 'videography', 'audio recording', 'studio', 'mixing', 'mastering',
+'copyright', 'licensing', 'royalties', 'marketing', 'promotion', 'advertising', 'publicity', 'branding',
+'sponsorship', 'endorsement', 'screening', 'premiere', 'red carpet', 'film festival', 'award', 'afterparty','car service', 'parking', 'valet', 'hotel', 'accommodation', 'lodging','hospitality', 'cruise', 'excursion', 'park', 'garden', 'zoo', 'aquarium', 'theater', 'cinema', 'concert', 'festival', 'music', 'art', 'culture','merchandise', 'gifts', 'memorabilia', 'print', 'design', 'printing', 'ad', 'brochure', 'flyer','poster', 'program', 'banner', 'website', 'online', 'social media', 'promotion', 'marketing', 'photographer','park','hotel'
